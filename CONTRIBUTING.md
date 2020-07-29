@@ -6,14 +6,7 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
+For now, there is no special rule. Just make sure you are planning to maintain the preset you want to add to the list.
 
 ## Updating your PR
 
