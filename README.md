@@ -1,3 +1,6 @@
+<!--lint disable double-link-->
+<!--lint disable no-dead-urls-->
+
 # Awesome Presets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="preset-logo.svg" align="right" width="100">](https://usepreset.dev)
