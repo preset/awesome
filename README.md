@@ -19,10 +19,10 @@ Preset is a command line tool for applying existing presets to your freshly scaf
 Presets that modify frameworks' default scaffolding.
 
 - [Laravel TALL](https://github.com/use-preset/laravel-tall) - Adds Tailwind CSS, Alpine.js and Livewire to a fresh Laravel application.
-- [Vite + Tailwind CSS](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a fresh Vite application, or creates the Vite application.
 
 ## Others
 
+- [Vite + Tailwind CSS](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a fresh Vite application, or creates the Vite application.
 - [Preset](https://github.com/use-preset/preset) - A preset for making presets.
 
 ## Contribute
