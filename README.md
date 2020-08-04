@@ -19,6 +19,7 @@ Preset is a command line tool for applying existing presets to your freshly scaf
 Presets that modify frameworks' default scaffolding.
 
 - [Laravel TALL](https://github.com/use-preset/laravel-tall) - Adds Tailwind CSS, Alpine.js and Livewire to a fresh Laravel application.
+- [Laravel Inertia](https://github.com/use-preset/laravel-inertia) - Adds Tailwind CSS, Inertia and Vue to a fresh Laravel application.
 - [Laravel + Tailwind CSS](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to Laravel.
 - [Laravel + Pest](https://github.com/use-preset/laravel-pest) - Adds Pest to Laravel.
 
