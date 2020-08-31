@@ -1,13 +1,28 @@
-<!--lint disable double-link-->
-<!--lint disable no-dead-urls-->
+<!--lint disable awesome-heading awesome-github double-link-->
 
-# Awesome Presets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <br />
+  <img width="100" src="./assets/logo.svg" alt="logo of awesome-presets repository">
+  <br />
+  <br />
+</p>
 
-[<img src="preset-logo.svg" align="right" width="100">](https://usepreset.dev)
+<h2 align="center">Awesome Preset</h2>
 
-> A curated list of awesome presets
-
-Preset is a command line tool for applying existing presets to your freshly scaffolded project, so you don't have to do it manually.
+<p align="center">
+  <a href="https://usepreset.dev">Preset</a> is a tool for applying presets to your freshly scaffolded project.
+  <br />
+  <br />
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+  </a>
+  &nbsp;
+  <a href="https://github.com/sindresorhus/awesome-lint">
+    <img src="https://github.com/use-preset/use-preset/workflows/lint/badge.svg" alt="Lint status">
+  </a>
+  <br />
+  <br />
+</p>
 
 ## Contents
 
@@ -20,14 +35,20 @@ Presets that modify frameworks' default scaffolding.
 
 - [Laravel TALL](https://github.com/use-preset/laravel-tall) - Adds Tailwind CSS, Alpine.js and Livewire to a fresh Laravel application.
 - [Laravel Inertia](https://github.com/use-preset/laravel-inertia) - Adds Tailwind CSS, Inertia and Vue to a fresh Laravel application.
-- [Laravel + Tailwind CSS](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to Laravel.
-- [Laravel + Pest](https://github.com/use-preset/laravel-pest) - Adds Pest to Laravel.
+- [Laravel Tailwind CSS](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to Laravel.
+- [Laravel Pest](https://github.com/use-preset/laravel-pest) - Adds Pest to Laravel.
 
 ## Others
 
 - [Vite + Tailwind CSS](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a fresh Vite application, or creates the Vite application.
-- [Preset](https://github.com/use-preset/preset) - A preset for making presets.
+- [Preset](https://github.com/use-preset/preset) - Scaffolds a preset.
+- [ESLint](https://github.com/mloberg/preset-eslint) - Adds ESLint to a project.
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+<p align="center">
+  <br />
+  <br />
+  ·
+  <br />
+  <br />
+  <sub>Contributions welcome! Read the <a href=".github/CONTRIBUTING.md">contribution guidelines</a> first.</sub>
+</p>
