@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/sindresorhus/awesome-lint">
-    <img src="https://github.com/use-preset/use-preset/workflows/lint/badge.svg" alt="Lint status">
+    <img src="https://github.com/use-preset/awesome-presets/workflows/Lint/badge.svg" alt="Lint status">
   </a>
   <br />
   <br />
