@@ -43,6 +43,7 @@ Presets that modify frameworks' default scaffolding.
 - [Vite + Tailwind CSS](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a fresh Vite application, or creates the Vite application.
 - [Preset](https://github.com/use-preset/preset) - Scaffolds a preset.
 - [ESLint](https://github.com/mloberg/preset-eslint) - Adds ESLint to a project.
+- [Next.js + ESLint + Prettier](https://github.com/skydiver/preset-nextjs/) - Installs Next.js with ESLint and Prettier.
 
 <p align="center">
   <br />
