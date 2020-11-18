@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <img width="100" src="./assets/logo.svg" alt="logo of awesome-presets repository">
+  <img width="100" src="./assets/logo.svg" alt="Logo of the Preset tool">
   <br />
   <br />
 </p>
@@ -16,9 +16,13 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
   </a>
-  &nbsp;
-  <a href="https://github.com/sindresorhus/awesome-lint">
-    <img src="https://github.com/use-preset/awesome-presets/workflows/Lint/badge.svg" alt="Lint status">
+  <span>&nbsp;</span>
+  <a href="https://discord.gg/XWwzc45KZu">
+    <img alt="npm" src="https://img.shields.io/static/v1?label=discord&message=join&logo=discord&color=7289da">
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://discord.gg/XWwzc45KZu">
+    <img alt="npm" src="https://img.shields.io/static/v1?label=documentation&message=read&color=0475b6">
   </a>
   <br />
   <br />
@@ -27,23 +31,14 @@
 ## Contents
 
 - [Frameworks](#frameworks)
-- [Others](#others)
 
 ## Frameworks
 
 Presets that modify frameworks' default scaffolding.
 
-- [Laravel TALL](https://github.com/use-preset/laravel-tall) - Adds Tailwind CSS, Alpine.js and Livewire to a fresh Laravel application.
-- [Laravel Inertia](https://github.com/use-preset/laravel-inertia) - Adds Tailwind CSS, Inertia and Vue to a fresh Laravel application.
-- [Laravel Tailwind CSS](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to Laravel.
-- [Laravel Pest](https://github.com/use-preset/laravel-pest) - Adds Pest to Laravel.
-
-## Others
-
-- [Vite + Tailwind CSS](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a fresh Vite application, or creates the Vite application.
-- [Preset](https://github.com/use-preset/preset) - Scaffolds a preset.
-- [ESLint](https://github.com/mloberg/preset-eslint) - Adds ESLint to a project.
-- [Next.js + ESLint + Prettier](https://github.com/skydiver/preset-nextjs/) - Installs Next.js with ESLint and Prettier.
+- [Laravel Inertia](https://github.com/laravel-presets/inertia) - Adds Tailwind CSS, Inertia and Vue to a fresh Laravel application.
+- [Laravel Tailwind CSS](https://github.com/laravel-presets/tailwindcss) - Adds Tailwind CSS to Laravel.
+- [Laravel Pest](https://github.com/laravel-presets/pest) - Adds Pest to Laravel.
 
 <p align="center">
   <br />
