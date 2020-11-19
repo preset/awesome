@@ -7,7 +7,7 @@
   <br />
 </p>
 
-<h2 align="center">Awesome Preset</h2>
+<h2 align="center">Awesome</h2>
 
 <p align="center">
   <a href="https://usepreset.dev">Preset</a> is a tool for applying presets to your freshly scaffolded project.
