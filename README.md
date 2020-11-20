@@ -36,9 +36,9 @@
 
 Presets that modify frameworks' default scaffolding.
 
-- [Laravel Inertia](https://github.com/laravel-presets/inertia) - Adds Tailwind CSS, Inertia and Vue to a fresh Laravel application.
-- [Laravel Tailwind CSS](https://github.com/laravel-presets/tailwindcss) - Adds Tailwind CSS to Laravel.
-- [Laravel Pest](https://github.com/laravel-presets/pest) - Adds Pest to Laravel.
+- [Tailwind CSS for Laravel](https://github.com/laravel-presets/tailwindcss) - Installs Tailwind CSS in a fresh Laravel project.
+- [Pest for Laravel](https://github.com/laravel-presets/pest) - Installs @pestphp in a fresh Laravel project.
+- [Frontend Presets for Laravel](https://github.com/laravel-presets/frontend) - Installs existing presets from https://github.com/laravel-frontend-presets/.
 
 <p align="center">
   <br />
