@@ -18,10 +18,6 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://discord.gg/XWwzc45KZu">
-    <img alt="npm" src="https://img.shields.io/static/v1?label=discord&message=join&logo=discord&color=7289da">
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://discord.gg/XWwzc45KZu">
     <img alt="npm" src="https://img.shields.io/static/v1?label=documentation&message=read&color=0475b6">
   </a>
   <br />
