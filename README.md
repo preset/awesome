@@ -10,7 +10,7 @@
 <h2 align="center">Awesome</h2>
 
 <p align="center">
-  <a href="https://usepreset.dev">Preset</a> is a tool for applying presets to your freshly scaffolded project.
+  <a href="https://preset.dev">Preset</a> is a tool for applying presets to your freshly scaffolded project.
   <br />
   <br />
   <a href="https://github.com/sindresorhus/awesome">
