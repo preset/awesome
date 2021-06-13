@@ -17,7 +17,7 @@
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
   </a>
   <span>&nbsp;</span>
-  <a href="https://discord.gg/XWwzc45KZu">
+  <a href="https://preset.dev">
     <img alt="npm" src="https://img.shields.io/static/v1?label=documentation&message=read&color=0475b6">
   </a>
   <br />
