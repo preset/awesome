@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <img width="100" src="./assets/logo.svg" alt="Logo of the Preset tool">
+  <img width="75" src="./assets/logo.svg" alt="Logo of Preset">
   <br />
   <br />
 </p>
@@ -32,10 +32,8 @@
 
 Presets that modify frameworks' default scaffolding.
 
-- [Tailwind CSS for Laravel](https://github.com/laravel-presets/tailwindcss) - Installs Tailwind CSS in a fresh Laravel project.
+- [Inertia for Laravel](https://github.com/laravel-presets/inertia) - Installs Inertia with Vite, Vue and Tailwind CSS in a fresh Laravel project.
 - [Pest for Laravel](https://github.com/laravel-presets/pest) - Installs [@pestphp](https://github.com/pestphp/) in a fresh Laravel project.
-- [Frontend Presets for Laravel](https://github.com/laravel-presets/frontend) - Installs existing presets from [@laravel-frontend-presets](https://github.com/laravel-frontend-presets/).
-- [Vite for Laravel](https://github.com/laravel-presets/vite) - Installs [@vitejs](https://github.com/vitejs/) in a fresh Laravel project.
 
 <p align="center">
   <br />
