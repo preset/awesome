@@ -2,8 +2,7 @@
 
 <p align="center">
   <br />
-  <img width="75" src="./assets/logo.svg" alt="Logo of Preset">
-  <br />
+  <img width="100" src="./assets/logo.svg" alt="Logo of Preset">
   <br />
 </p>
 
