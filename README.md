@@ -26,6 +26,7 @@
 ## Contents
 
 - [Frameworks](#frameworks)
+- [Organizations](#organizations)
 
 ## Frameworks
 
@@ -34,6 +35,12 @@ Presets that modify frameworks' default scaffolding.
 - [Inertia for Laravel](https://github.com/laravel-presets/inertia) - Installs Inertia with Vite, Vue and Tailwind CSS in a fresh Laravel project.
 - [Vite for Laravel](https://github.com/laravel-presets/inertia) - Installs Vite, Vue and Tailwind CSS in a fresh Laravel project.
 - [Pest for Laravel](https://github.com/laravel-presets/pest) - Installs [@pestphp](https://github.com/pestphp/) in a fresh Laravel project.
+
+## Organizations
+
+GitHub organizations that host presets.
+
+- [Laravel](https://github.com/laravel-presets) - Presets for the Laravel framework.
 
 <p align="center">
   <br />
